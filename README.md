@@ -42,6 +42,27 @@ https://user-images.githubusercontent.com/60782190/118552263-86c9c880-b780-11eb-
 
 https://user-images.githubusercontent.com/60782190/118553139-bc22e600-b781-11eb-82a2-6f0c0139e620.mp4
 
+<br />
+<h3> Capture Screen and download mp4: </h3>
+   This option share and capture screen based on various options like tab, window and whole screen. After closing screen sharing, it will automatically download the recorded video capture file as mp4 file <br />
+    
+<h4>here is the demonstration of 'Capture Screen'</h4>
 
+https://user-images.githubusercontent.com/60782190/118554195-f5a82100-b782-11eb-923c-80050727d30c.mp4
+
+<br />
+<h3> Print the page </h3>
+   This option prints the currently active solution page <br />
+    
+<h4>here is the demonstration of 'Print the page'</h4>
+
+https://user-images.githubusercontent.com/60782190/118554331-212b0b80-b783-11eb-8108-66be596506e1.mp4
+
+<h4>N.B: Use it for only educational purpose. If you have the ability to buy subscription,then please don't use it</h4><br />
+
+<h3> Resources: </h3>
+     1. You may look at these two repos:
+> [TamimEhsan/HideSharedPost](https://github.com/TamimEhsan/HideSharedPost)
+> [TamimEhsan/ChromeExtensions](https://github.com/TamimEhsan/ChromeExtensions)
 
 
