@@ -19,7 +19,8 @@ Chrome extension to bypass monthly limit of slader solutions, download single so
     4. Click load unpacked button<br />
     5. And then select the 'Slader_Limit_Vanished_V2' folder<br /><br />
     
-here is the demonstration of 'How to use':<br/>
+here is the demonstration of 'How to use'
+
 https://user-images.githubusercontent.com/60782190/118551150-63eae480-b77f-11eb-942f-ef73c33d5ea3.mp4
 
 
