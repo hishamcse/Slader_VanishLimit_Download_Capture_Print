@@ -61,8 +61,7 @@ https://user-images.githubusercontent.com/60782190/118554331-212b0b80-b783-11eb-
 <h4>N.B: Use it for only educational purpose. If you have the ability to buy subscription,then please don't use it</h4><br />
 
 <h3> Resources: </h3>
-    1.
-    2. [TamimEhsan/HideSharedPost](https://github.com/TamimEhsan/HideSharedPost) <br />
-    3. [TamimEhsan/ChromeExtensions](https://github.com/TamimEhsan/ChromeExtensions) <br />
+     [TamimEhsan/HideSharedPost](https://github.com/TamimEhsan/HideSharedPost) <br />
+     [TamimEhsan/ChromeExtensions](https://github.com/TamimEhsan/ChromeExtensions) <br />
 
 
