@@ -61,7 +61,6 @@ https://user-images.githubusercontent.com/60782190/118554331-212b0b80-b783-11eb-
 <br />
 <h4>N.B: Use it for only educational purpose. If you have the ability to buy subscription,then please don't use it</h4>
 
-<h3> Resources: </h3>      
-     [TamimEhsan HideSharedPost](https://github.com/TamimEhsan/HideSharedPost) 
+<h3> Resources: </h3> [HideSharedPost](https://github.com/TamimEhsan/HideSharedPost) 
 
 
