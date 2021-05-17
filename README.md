@@ -35,12 +35,12 @@ https://user-images.githubusercontent.com/60782190/118552263-86c9c880-b780-11eb-
 <br />
 
 ## Download Single Solution:
-    This option downloads the solution and the comments of the problem. Please wait as the response from the API takes time. Also please use your own API key as the request is limited. The API request limit is 100 req/month. So you can download upto 100 solution per month:
+   This option downloads the solution and the comments of the problem. Please wait as the response from the API takes time. Also please use your own API key as the request is limited. The API request limit is 100 req/month. So you can download upto 100 solution per month:
 <br />
 
 > <b>For API Key</b>: <b>As there is a limit of 100 req/month, so, it is recommended to use your own api key</b>. Go to this site https://apiflash.com/ , create free account       and you will get free API_KEY. Now, go to 'Slader_Limit_Vanished_V2/javascript/content_script.js' file and at line 5, change the API_KEY and that's it. <br />
     
-## here is the demonstration of 'Download Single Solution'
+#### here is the demonstration of 'Download Single Solution'
 
 https://user-images.githubusercontent.com/60782190/118553139-bc22e600-b781-11eb-82a2-6f0c0139e620.mp4
 
@@ -69,5 +69,17 @@ https://user-images.githubusercontent.com/60782190/118554331-212b0b80-b783-11eb-
 ## Resources:
    1. Chrome Getting Started Tutorial: [Getting Started](https://developer.chrome.com/docs/extensions/mv2/getstarted/) <br />
    2. Chrome API Reference: [Chrome API Reference](https://developer.chrome.com/docs/extensions/reference/) <br />
+   3. Extension Guide: [Shiffman_Extension](https://shiffman.net/a2z/chrome-ext/) <br />
+   4. Some Example: [TamimEhsan/ChromeExtensions](https://github.com/TamimEhsan/ChromeExtensions) <br />
+   5. Facebook HideSharedPost: [TamimEhsan/HideSharedPost](https://github.com/TamimEhsan/HideSharedPost) <br />
+   6. Fire event at element creation: https://stackoverflow.com/questions/8560819/chrome-extension-fire-an-event-when-element-created <br />
+   7. X-Forwarder-For(Request Header) doc: https://en.wikipedia.org/wiki/X-Forwarded-For <br />
+   8. Download image: https://dev.to/sbodi10/download-images-using-javascript-51a9 <br />
+   9. Screenshot API documentation: https://apiflash.com/documentation <br />
+   10. Screenshot Implementation: https://hackernoon.com/how-to-take-screenshots-in-the-browser-using-javascript-l92k3xq <br />
+   11. Screen Capture documentation: https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API/Using_Screen_Capture <br />
+   12. Screen Capture implementation: https://dev.to/sebastianstamm/screen-recording-in-10-lines-of-vanilla-js-3bo8 <br />
+   13. MediaRecorder API documentation: https://developer.mozilla.org/en-US/docs/Web/API/MediaRecorder/MediaRecorder <br />
+   14. Popup template: https://freefrontend.com/css-modal-windows/
 
 
