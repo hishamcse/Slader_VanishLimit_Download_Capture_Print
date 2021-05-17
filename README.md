@@ -34,8 +34,8 @@ https://user-images.githubusercontent.com/60782190/118552263-86c9c880-b780-11eb-
 <br />
 <h3> Download Single Solution: </h3>
     This option downloads the solution and the comments of the problem. Please wait as the response from the API takes time. Also please use your own API key as the request is limited. The API request limit is 100 req/month. So you can download upto 100 solution per month:
-
-    > <b>For API Key</b>: <b>As there is a limit of 100 req/month, so, it is recommended to use your own api key</b>. Go to this site https://apiflash.com/ , create free account       and you will get free API_KEY. Now, go to 'Slader_Limit_Vanished_V2/javascript/content_script.js' file and at line 5, change the API_KEY and that's it. <br />
+    
+> <b>For API Key</b>: <b>As there is a limit of 100 req/month, so, it is recommended to use your own api key</b>. Go to this site https://apiflash.com/ , create free account       and you will get free API_KEY. Now, go to 'Slader_Limit_Vanished_V2/javascript/content_script.js' file and at line 5, change the API_KEY and that's it. <br />
     
 <h4>here is the demonstration of 'Download Single Solution'</h4>
 
