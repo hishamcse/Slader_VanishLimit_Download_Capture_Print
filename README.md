@@ -9,7 +9,7 @@ Chrome extension to bypass monthly limit of slader solutions, download single so
    4. Print the solution page<br />
 
 ## Available Browsers: 
-   1. Chrome<br />
+   1. Chrome (Recommended)<br />
    2. Microsoft Edge<br />
     
 ## How to use:
@@ -70,7 +70,7 @@ https://user-images.githubusercontent.com/60782190/118554331-212b0b80-b783-11eb-
    3. Extension Guide:  &nbsp;&nbsp; [Shiffman_Extension](https://shiffman.net/a2z/chrome-ext/) <br />
    4. Some Example: &nbsp;&nbsp;  [TamimEhsan/ChromeExtensions](https://github.com/TamimEhsan/ChromeExtensions) <br />
    5. Facebook HideSharedPost:  &nbsp;&nbsp; [TamimEhsan/HideSharedPost](https://github.com/TamimEhsan/HideSharedPost) <br />
-   6. Idea taken: https://github.com/lebr0nli/slader-extension
+   6. Idea taken: &nbsp;&nbsp; https://github.com/lebr0nli/slader-extension
    7. Fire event at element creation: &nbsp;&nbsp;  https://stackoverflow.com/questions/8560819/chrome-extension-fire-an-event-when-element-created <br />
    8. X-Forwarder-For(Request Header) doc: &nbsp;&nbsp;  https://en.wikipedia.org/wiki/X-Forwarded-For <br />
    9. Download image: &nbsp;&nbsp;  https://dev.to/sbodi10/download-images-using-javascript-51a9 <br />
