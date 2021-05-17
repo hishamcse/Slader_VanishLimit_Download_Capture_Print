@@ -19,16 +19,27 @@ Chrome extension to bypass monthly limit of slader solutions, download single so
     4. Click load unpacked button<br />
     5. And then select the 'Slader_Limit_Vanished_V2' folder<br /><br />
     
-<h5>here is the demonstration of 'How to use'</h5>
+<h4>here is the demonstration of 'How to use'</h4>
 
 https://user-images.githubusercontent.com/60782190/118551150-63eae480-b77f-11eb-942f-ef73c33d5ea3.mp4
 
-
-<h3> Limit Bypass: </h3><br />
-    At slader, besides free books, there are also books which require premium access. This extension bypasses the paywall, remove the warning message and make all solutions accessible. <br />
+<br/>
+<h3> Limit Bypass: </h3>
+    At slader, besides free books, there are also books which require premium access. This extension bypasses the paywall, remove the warning message and make all solutions accessible. For example: This book https://www.slader.com/textbook/9780989472104-book-of-proof requires premium access <br />
     
-<h5>here is the demonstration of 'Limit Bypass'</h5>
+<h4>here is the demonstration of 'Limit Bypass'</h4>
 
 https://user-images.githubusercontent.com/60782190/118552263-86c9c880-b780-11eb-82f3-cf1410b70fc3.mp4
+
+<br />
+<h3> Download Single Solution: </h3>
+    This option downloads the solution and the comments of the problem. Please wait as the response from the API takes time. Also please use your own API key as the request is limited. The API request limit is 100 req/month.So you can download upto 100 solution per month <br />
+    <b>For API Key</b>: <b>As there is a limit of 100 req/month, so, please use your own api key</b>. Go to this site https://apiflash.com/ , create free account and you will get free API_KEY. Now, go to 'Slader_Limit_Vanished_V2/javascript/content_script.js' file and at line 5, change the API_KEY and that's it. <br />
+    
+<h4>here is the demonstration of 'Download Single Solution'</h4>
+
+https://user-images.githubusercontent.com/60782190/118553139-bc22e600-b781-11eb-82a2-6f0c0139e620.mp4
+
+
 
 
