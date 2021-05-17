@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <!-- Adding Stylesheet -->
+    <link rel="stylesheet" href="popup.css">
+
+    <!-- Adding Script -->
+    <script type="module" defer src="popup.js"></script>
+</head>
+<body>
+    <button id="changeColor"></button>
+    <!-- title -->
+    <div class="box">
+        <h5 class="box__title">Slader Bypass V2</h5>
+        <p class="box__p">Click buttons to view options</p>
+    </div>
+
+    <!-- modal 1 -->
+    <div class="box">
+        <a href="#m1-o" class="link-1" id="m1-c">Download</a>
+
+        <div class="modal-container" id="m1-o" style="--m-background: transparent;">
+            <div class="modal">
+                <h3 class="modal__title">Download the solution</h3>
+                <p class="modal__text">This option downloads the solution and the comments of the problem. Please
+                wait as the response from the API takes time. Also please use your own API key as the request is limited.
+                    The API request limit is 100 req/month.So you can download upto 100 solution per month</p>
+                <button class="modal__btn download">download &rarr;</button>
+                <a href="#m1-c" class="link-2"></a>
+            </div>
+        </div>
+
+        <a href="#m2-o" class="link-1" id="m2-c">Screen Capture</a>
+
+        <div class="modal-container" id="m2-o" style="--m-background: hsla(0, 0%, 0%, .4);">
+            <div class="modal">
+                <h1 class="modal__title">Share & Capture the screen</h1>
+                <p class="modal__text">This option share and capture screen based on various options like tab, window and whole screen.
+                After closing screen sharing, it will automatically download the recorded video capture file</p>
+                <button class="modal__btn capture">Capture &rarr;</button>
+                <a href="#m2-c" class="link-2"></a>
+            </div>
+        </div>
+
+        <a href="#m3-o" class="link-1" id="m3-c">Print</a>
+
+        <div class="modal-container" id="m3-o" style="--m-background: var(--global-background);">
+            <div class="modal" style="--m-shadow: 0 0 10rem 0">
+                <h1 class="modal__title">Print this page</h1>
+                <p class="modal__text">This option prints the current page</p>
+                <button class="modal__btn print">Print &rarr;</button>
+                <a href="#m3-c" class="link-2"></a>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

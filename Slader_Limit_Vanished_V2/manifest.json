@@ -1,0 +1,53 @@
+{
+  "name": "slader extension V2",
+  "description": "Bypass Slader Monthly Limit. Extra Feature: Download solution, Capture screen and Print Solution",
+  "version": "2.0",
+  "manifest_version": 2,
+  "background": {
+    "scripts": [
+      "javascript/background.js"
+    ],
+    "persistent": true
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.slader.com/textbook/*",
+        "*://api.apiflash.com/v1/*"
+      ],
+      "js": [
+        "javascript/content_script.js"
+      ]
+    }
+  ],
+  "externally_connectable": {
+    "ids": [
+      "*"
+    ]
+  },
+  "permissions": [
+    "*://*.slader.com/textbook/*",
+    "*://*.apiflash.com/v1/*",
+    "webRequest",
+    "webRequestBlocking",
+    "storage",
+    "activeTab",
+    "downloads",
+    "tabs"
+  ],
+  "browser_action": {
+    "default_popup": "popup/popup.html",
+    "default_icon": {
+      "16": "images/slader16.png",
+      "32": "images/slader32.png",
+      "48": "images/slader48.png",
+      "128": "images/slader128.png"
+    }
+  },
+  "icons": {
+    "16": "images/slader16.png",
+    "32": "images/slader32.png",
+    "48": "images/slader48.png",
+    "128": "images/slader128.png"
+  }
+}
