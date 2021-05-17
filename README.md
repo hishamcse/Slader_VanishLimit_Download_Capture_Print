@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/60782190/118551150-63eae480-b77f-11eb-
 <br/>
 
 ## Limit Bypass:
-    At slader, besides free books, there are also books which require premium access. This extension bypasses the paywall, remove the warning message and make all solutions accessible. For example: This book https://www.slader.com/textbook/9780989472104-book-of-proof requires premium access <br />
+   At slader, besides free books, there are also books which require premium access. This extension bypasses the paywall, remove the warning message and make all solutions accessible. For example: This book https://www.slader.com/textbook/9780989472104-book-of-proof requires premium access <br />
     
 #### here is the demonstration of 'Limit Bypass'
 
