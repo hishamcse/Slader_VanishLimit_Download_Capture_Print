@@ -70,15 +70,16 @@ https://user-images.githubusercontent.com/60782190/118554331-212b0b80-b783-11eb-
    3. Extension Guide:  &nbsp;&nbsp; [Shiffman_Extension](https://shiffman.net/a2z/chrome-ext/) <br />
    4. Some Example: &nbsp;&nbsp;  [TamimEhsan/ChromeExtensions](https://github.com/TamimEhsan/ChromeExtensions) <br />
    5. Facebook HideSharedPost:  &nbsp;&nbsp; [TamimEhsan/HideSharedPost](https://github.com/TamimEhsan/HideSharedPost) <br />
-   6. Fire event at element creation: &nbsp;&nbsp;  https://stackoverflow.com/questions/8560819/chrome-extension-fire-an-event-when-element-created <br />
-   7. X-Forwarder-For(Request Header) doc: &nbsp;&nbsp;  https://en.wikipedia.org/wiki/X-Forwarded-For <br />
-   8. Download image: &nbsp;&nbsp;  https://dev.to/sbodi10/download-images-using-javascript-51a9 <br />
-   9. Screenshot API documentation:  &nbsp;&nbsp; https://apiflash.com/documentation <br />
-   10. Screenshot Implementation: &nbsp;&nbsp;  https://hackernoon.com/how-to-take-screenshots-in-the-browser-using-javascript-l92k3xq <br />
-   11. Screen Capture documentation: &nbsp;&nbsp;  https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API/Using_Screen_Capture <br />
-   12. Screen Capture implementation: &nbsp;&nbsp;  https://dev.to/sebastianstamm/screen-recording-in-10-lines-of-vanilla-js-3bo8 <br />
-   13. MediaRecorder API documentation: &nbsp;&nbsp;  https://developer.mozilla.org/en-US/docs/Web/API/MediaRecorder/MediaRecorder <br />
-   14. Popup template:  &nbsp;&nbsp; https://freefrontend.com/css-modal-windows/
+   6. Idea taken: https://github.com/lebr0nli/slader-extension
+   7. Fire event at element creation: &nbsp;&nbsp;  https://stackoverflow.com/questions/8560819/chrome-extension-fire-an-event-when-element-created <br />
+   8. X-Forwarder-For(Request Header) doc: &nbsp;&nbsp;  https://en.wikipedia.org/wiki/X-Forwarded-For <br />
+   9. Download image: &nbsp;&nbsp;  https://dev.to/sbodi10/download-images-using-javascript-51a9 <br />
+   10. Screenshot API documentation:  &nbsp;&nbsp; https://apiflash.com/documentation <br />
+   11. Screenshot Implementation: &nbsp;&nbsp;  https://hackernoon.com/how-to-take-screenshots-in-the-browser-using-javascript-l92k3xq <br />
+   12. Screen Capture documentation: &nbsp;&nbsp;  https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API/Using_Screen_Capture <br />
+   13. Screen Capture implementation: &nbsp;&nbsp;  https://dev.to/sebastianstamm/screen-recording-in-10-lines-of-vanilla-js-3bo8 <br />
+   14. MediaRecorder API documentation: &nbsp;&nbsp;  https://developer.mozilla.org/en-US/docs/Web/API/MediaRecorder/MediaRecorder <br />
+   15. Popup template:  &nbsp;&nbsp; https://freefrontend.com/css-modal-windows/
 
 
 #### N.B: Use it for only educational purpose. If you have the ability to buy subscription,then please don't use it
