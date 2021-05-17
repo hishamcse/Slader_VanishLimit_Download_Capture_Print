@@ -19,9 +19,16 @@ Chrome extension to bypass monthly limit of slader solutions, download single so
     4. Click load unpacked button<br />
     5. And then select the 'Slader_Limit_Vanished_V2' folder<br /><br />
     
-here is the demonstration of 'How to use'
+<h5>here is the demonstration of 'How to use'</h5>
 
 https://user-images.githubusercontent.com/60782190/118551150-63eae480-b77f-11eb-942f-ef73c33d5ea3.mp4
 
+
+<h3> Limit Bypass: </h3><br />
+    At slader, besides free books, there are also books which require premium access. This extension bypasses the paywall, remove the warning message and make all solutions accessible. <br />
+    
+<h5>here is the demonstration of 'Limit Bypass'</h5>
+
+https://user-images.githubusercontent.com/60782190/118552263-86c9c880-b780-11eb-82f3-cf1410b70fc3.mp4
 
 
