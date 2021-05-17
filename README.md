@@ -61,12 +61,7 @@ https://user-images.githubusercontent.com/60782190/118554331-212b0b80-b783-11eb-
 <br />
 <h4>N.B: Use it for only educational purpose. If you have the ability to buy subscription,then please don't use it</h4>
 
-<h3> Resources: </h3>
-      
-      [TamimEhsan HideSharedPost](https://github.com/TamimEhsan/HideSharedPost) 
-      [TamimEhsan ChromeExtensions](https://github.com/TamimEhsan/ChromeExtensions) <br />
-      [Chrome Getting Started](https://developer.chrome.com/docs/extensions/mv2/getstarted/) <br />
-      [Chrome API Reference](https://developer.chrome.com/docs/extensions/reference/) <br />
-      [RSA Video](https://www.youtube.com/watch?v=tQi43Qg8XsU&t=0s)
+<h3> Resources: </h3>      
+     [TamimEhsan HideSharedPost](https://github.com/TamimEhsan/HideSharedPost) 
 
 
