@@ -81,4 +81,4 @@ https://user-images.githubusercontent.com/60782190/118554331-212b0b80-b783-11eb-
    15. Popup template:  &nbsp;&nbsp; https://freefrontend.com/css-modal-windows/
 
 
-#### N.B: Use it for only educational purposes. If you have the ability to buy subscription of slader,then buy and use
+#### N.B: Use it for only educational purposes. If you can afford to buy subscription of slader,then buy and use
