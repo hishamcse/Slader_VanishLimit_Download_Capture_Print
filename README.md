@@ -2,6 +2,8 @@
  
 Chrome extension to bypass monthly limit of slader solutions, download single solution, capture the screen and print the solution.<br />
 
+#### Update: I have updated the whole code structure and try to make it clean and simple to follow
+
 ## Features:
    1. Bypass slader monthly limit of premium books. so now solutions are limited<br />
    2. Download solution of a particular page<br />
