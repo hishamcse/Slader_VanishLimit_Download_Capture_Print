@@ -54,12 +54,14 @@ https://user-images.githubusercontent.com/60782190/118554195-f5a82100-b782-11eb-
 
 <br />
 
-## Print the page
-   This option prints the currently active solution page <br />
+## Print the solution
+   This option prints the solution of the currently active page <br />
     
-#### here is the demonstration of 'Print the page'
+#### here is the demonstration of 'Print the solution'
 
-https://user-images.githubusercontent.com/60782190/118554331-212b0b80-b783-11eb-8108-66be596506e1.mp4
+
+https://user-images.githubusercontent.com/60782190/118611247-6f212d00-b7de-11eb-873f-263ccf560708.mp4
+
 
 <br />
 
@@ -78,7 +80,8 @@ https://user-images.githubusercontent.com/60782190/118554331-212b0b80-b783-11eb-
    12. Screen Capture documentation: &nbsp;&nbsp;  https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API/Using_Screen_Capture <br />
    13. Screen Capture implementation: &nbsp;&nbsp;  https://dev.to/sebastianstamm/screen-recording-in-10-lines-of-vanilla-js-3bo8 <br />
    14. MediaRecorder API documentation: &nbsp;&nbsp;  https://developer.mozilla.org/en-US/docs/Web/API/MediaRecorder/MediaRecorder <br />
-   15. Popup template:  &nbsp;&nbsp; https://freefrontend.com/css-modal-windows/
+   15. Retrive Specific content of a webpage with all its styles: https://stackoverflow.com/a/6310120
+   16. Popup template:  &nbsp;&nbsp; https://freefrontend.com/css-modal-windows/
 
 
 #### N.B: Use it for only educational purposes. If you can afford to buy subscription of slader,then buy and use
