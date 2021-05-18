@@ -13,7 +13,7 @@ Chrome extension to bypass monthly limit of slader solutions, download single so
    2. Microsoft Edge<br />
     
 ## How to use:
-   1. Download this repository as zip then unzip<br />
+   1. Download this repository as zip then unzip. N.B: We will need 'Slader_Limit_Vanished_V2' folder only. Not full unzipped folder<br />
    2. go to chrome/edge extension page and enable developer mode<br />
    3. Click load unpacked button<br />
    4. And then select the 'Slader_Limit_Vanished_V2' folder<br /><br />
