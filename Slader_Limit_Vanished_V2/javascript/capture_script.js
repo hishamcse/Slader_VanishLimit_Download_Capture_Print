@@ -1,5 +1,5 @@
 /**
- * capture_script  :  share the screen
+ * capture_script  :  capture the screen and after finishing the capture, download it as mp4 file
  * @param fileName{string} the name of the downloaded file
  * @returns {Promise<void>}
  */
