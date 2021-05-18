@@ -1,6 +1,17 @@
 /**
- * Print Current Solution
+ * Printer_script: print the solution portion of the page
  */
+const print = () => {
+    let prtContent = document.querySelector(".solution.user-content");
+    let WinPrint = window.open("", "PRINT", 'height=600,width=900');
+    WinPrint.document.write(prtContent.serializeWithStyles());
+    WinPrint.document.close();
+    WinPrint.setTimeout(function () {
+        WinPrint.focus();
+        WinPrint.print();
+        WinPrint.close();
+    }, 1000);
+}
 
 /**
  * Helper for Printer_script
@@ -89,18 +100,3 @@ Element.prototype.serializeWithStyles = (function () {
         return result;
     }
 })();
-
-/**
- * Printer_script: print the solution portion of the page
- */
-const print = () => {
-    let prtContent = document.querySelector(".solution.user-content");
-    let WinPrint = window.open("", "PRINT", 'height=600,width=900');
-    WinPrint.document.write(prtContent.serializeWithStyles());
-    WinPrint.document.close();
-    WinPrint.setTimeout(function () {
-        WinPrint.focus();
-        WinPrint.print();
-        WinPrint.close();
-    }, 1000);
-}

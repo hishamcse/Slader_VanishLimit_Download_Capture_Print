@@ -16,7 +16,11 @@
         "*://api.apiflash.com/v1/*"
       ],
       "js": [
-        "javascript/content_script.js"
+        "javascript/content_script.js",
+        "javascript/downloader_script.js",
+        "javascript/capture_script.js",
+        "javascript/printer_script.js",
+        "javascript/download_helper_script.js"
       ]
     }
   ],
