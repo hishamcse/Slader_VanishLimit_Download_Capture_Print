@@ -1,19 +1,19 @@
 # Slader_VanishLimit_Download_Capture_Print
  
-Chrome extension to bypass monthly limit of slader solutions, download single solution, capture the screen and print the page.<br />
+Chrome extension to bypass monthly limit of slader solutions, download single solution, capture the screen and print the solution.<br />
 
 ## Features:
    1. Bypass slader monthly limit of premium books. so now solutions are limited<br />
    2. Download solution of a particular page<br />
    3. Capture the screen and save the capture as a mp4 file<br />
-   4. Print the solution page<br />
+   4. Print the solution of current page<br />
 
 ## Available Browsers: 
    1. Google Chrome (Recommended)<br />
    2. Microsoft Edge<br />
     
 ## How to use:
-   1. Download this repository as zip then unzip<br />
+   1. Download this repository as zip then unzip. N.B: We will need 'Slader_Limit_Vanished_V2' folder only. Not full unzipped folder<br />
    2. go to chrome/edge extension page and enable developer mode<br />
    3. Click load unpacked button<br />
    4. And then select the 'Slader_Limit_Vanished_V2' folder<br /><br />
