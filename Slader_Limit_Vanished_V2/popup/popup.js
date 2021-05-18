@@ -19,7 +19,7 @@ capture.addEventListener('click', () => {
 });
 
 print.addEventListener('click', () => {
-    chrome.tabs.executeScript({
-        "file": "./javascript/helper_scripts/printer_script.js"
+    chrome.tabs.query({active: true, currentWindow: true}, (tabs) => {
+        chrome.tabs.sendMessage(tabs[0].id, 'print');
     });
-})
+});
