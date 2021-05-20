@@ -1,4 +1,8 @@
-# Slader_VanishLimit_Download_Capture_Print
+<a align="center>
+![slader128](https://user-images.githubusercontent.com/60782190/119020135-b4508500-b9bf-11eb-942c-3b0491b0a196.png)
+</a>
+
+<h1 align="center"> Slader_VanishLimit_Download_Capture_Print</h1>
  
 Chrome extension to bypass monthly limit of slader solutions, download single solution, capture the screen and print the solution.<br />
 
