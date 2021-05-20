@@ -8,6 +8,8 @@
 <h2 align="center"> Slader_VanishLimit_Download_Capture_Print
  
  ![GitHub repo size](https://img.shields.io/github/repo-size/hishamcse/Slader_VanishLimit_Download_Capture_Print)
+ ![GitHub language count](https://img.shields.io/github/languages/count/hishamcse/Slader_VanishLimit_Download_Capture_Print)
+ ![GitHub top language](https://img.shields.io/github/languages/top/hishamcse/Slader_VanishLimit_Download_Capture_Print)
  
 </h2>
  <p align="center">
