@@ -31,7 +31,7 @@ Chrome extension to bypass monthly limit of slader solutions, download single so
     
 #### here is the demonstration of 'Limit Bypass'
 
-https://user-images.githubusercontent.com/60782190/118552263-86c9c880-b780-11eb-82f3-cf1410b70fc3.mp4
+![2 limit_bypass](https://user-images.githubusercontent.com/60782190/119014839-2e7e0b00-b9ba-11eb-952f-e6fd81aad32b.gif)
 
 <br />
 
@@ -43,7 +43,7 @@ https://user-images.githubusercontent.com/60782190/118552263-86c9c880-b780-11eb-
     
 #### here is the demonstration of 'Download Single Solution'
 
-https://user-images.githubusercontent.com/60782190/118553139-bc22e600-b781-11eb-82a2-6f0c0139e620.mp4
+![3 download](https://user-images.githubusercontent.com/60782190/119015327-a1878180-b9ba-11eb-96af-5263626842e7.gif)
 
 <br />
 
@@ -61,9 +61,7 @@ https://user-images.githubusercontent.com/60782190/118554195-f5a82100-b782-11eb-
     
 #### here is the demonstration of 'Print the solution'
 
-
-https://user-images.githubusercontent.com/60782190/118611247-6f212d00-b7de-11eb-873f-263ccf560708.mp4
-
+![5 Print](https://user-images.githubusercontent.com/60782190/119016294-941ec700-b9bb-11eb-8426-d7dfff54f63f.gif)
 
 <br />
 
