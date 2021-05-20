@@ -5,9 +5,10 @@
       style="border-radius:50%"src="https://github.com/hishamcse/Slader_VanishLimit_Download_Capture_Print/blob/master/Slader_Limit_Vanished_V2/images/slader128.png" />
 </p>
 
-<h1 align="center"> Slader_VanishLimit_Download_Capture_Print</h1>
- 
-Chrome extension to bypass monthly limit of slader solutions, download single solution, capture the screen and print the solution.<br />
+<h2 align="center"> Slader_VanishLimit_Download_Capture_Print</h2>
+ <p align="center">
+Chrome extension to bypass monthly limit of slader solutions, download single solution, capture the screen and print the solution.
+ </p>
 
 #### Update: I have updated the whole code structure and try to make it clean and simple to follow
 
