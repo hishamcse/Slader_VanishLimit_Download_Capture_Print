@@ -1,7 +1,7 @@
 
 
 <a>
- <img align="center" src="https://github.com/hishamcse/Slader_VanishLimit_Download_Capture_Print/blob/master/Slader_Limit_Vanished_V2/images/slader128.png" />
+ <img align="center" width="80px" style="border-radius:50%" src="https://github.com/hishamcse/Slader_VanishLimit_Download_Capture_Print/blob/master/Slader_Limit_Vanished_V2/images/slader128.png" />
 </a>
 
 <h1 align="center"> Slader_VanishLimit_Download_Capture_Print</h1>
