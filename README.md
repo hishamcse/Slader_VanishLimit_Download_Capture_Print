@@ -1,6 +1,5 @@
-<a align="center>
-![slader128](https://user-images.githubusercontent.com/60782190/119020135-b4508500-b9bf-11eb-942c-3b0491b0a196.png)
-</a>
+
+                        ![slader128](https://user-images.githubusercontent.com/60782190/119020135-b4508500-b9bf-11eb-942c-3b0491b0a196.png)
 
 <h1 align="center"> Slader_VanishLimit_Download_Capture_Print</h1>
  
