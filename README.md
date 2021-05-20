@@ -22,7 +22,7 @@ Chrome extension to bypass monthly limit of slader solutions, download single so
     
 #### here is the demonstration of 'How to use'
 
-https://user-images.githubusercontent.com/60782190/119013465-d2ff4d80-b9b8-11eb-90a9-e1fac9109442.mp4
+![1 Adding Extension](https://user-images.githubusercontent.com/60782190/119014202-8bc58c80-b9b9-11eb-8e62-2a36685781ab.gif)
 
 <br/>
 
