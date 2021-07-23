@@ -13,7 +13,7 @@
  
 </h2>
  <p align="center">
-Chrome extension to bypass monthly limit of slader solutions, download single solution, capture the screen and print the solution.
+[Doesn't work anymore as slader has been moved to quizlet] Chrome extension to bypass monthly limit of slader solutions, download single solution, capture the screen and print the solution.
   </p>
 
 ## Features:
